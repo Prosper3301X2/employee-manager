@@ -23,7 +23,7 @@ npm run build --report
 ### Author
 
 Prosper
-[Prosper](http://www.traversymedia.com)
+[Prosper](http://www.google.com)
 
 ### Version
 

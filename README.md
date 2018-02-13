@@ -22,8 +22,8 @@ npm run build --report
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Prosper
+[Prosper](http://www.traversymedia.com)
 
 ### Version
 
